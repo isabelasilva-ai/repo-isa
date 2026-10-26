@@ -27,27 +27,27 @@
 
 ## 1. A festa
 
-**Nome da festa:Festa do pedro** 
-**Onde acontece:Alcochete** 
-**Quando:20/10** 
+**Nome da festa:** [ex.: Santo António]
+**Onde acontece:** [cidade, região ou país]
+**Quando:** [mês ou data]
 
-A Festa do Pedro é uma festa muito divertida que acontece em Alcochete, no dia 20 de outubro. É um dia especial em que os amigos e a família se juntam para comer, dançar e passar bons momentos. Há música, comida deliciosa e muita animação durante toda a festa. Esta festa é importante porque permite criar memórias inesquecíveis com as pessoas de quem gostamos.
+[Explica, em 3 a 5 frases, o que é esta festa e porque é importante para as pessoas que a celebram.]
 
 ## 2. Porque é a minha preferida
 
-A Festa do Pedro é a minha festa preferida porque tem tudo aquilo de que gosto! A comida é deliciosa, há vários pratos e doces para experimentar e posso comer com os meus amigos. A música é muito divertida e gosto especialmente de dançar quando começa a tocar uma música conhecida. O meu momento preferido é quando chega o DJ Solares, porque toda a gente começa a dançar, a cantar e a saltar. É impossível ficar parado com tanta animação!
+[Conta o que mais gostas nesta festa: a comida, a música, as pessoas, o ambiente…]
 
-- comida
-- musica
-- dj solares
+- [Motivo 1]
+- [Motivo 2]
+- [Motivo 3]
 
 ## 3. A minha história
 
 ### [Dá um título à tua história]
 
-No dia 20 de outubro, fui à Festa do Pedro, em Alcochete, com os meus amigos. Estava muito entusiasmado porque sabia que ia ser uma noite cheia de diversão. Quando chegámos, fomos logo procurar comida e comprámos hambúrgueres, batatas fritas e algumas bebidas. Estivemos a conversar, a rir e a tirar fotografias para guardar como recordação. O ambiente estava fantástico e já se ouvia música por todo o lado.
+[Conta uma história que tenhas vivido nesta festa. Pode ser divertida, emocionante, inesperada ou um bocadinho embaraçosa! Escreve pelo menos **dois parágrafos**.]
 
-Mais tarde, chegou o momento que todos estávamos à espera: a atuação do DJ Solares! Assim que a música começou, fomos todos para a frente e começámos a dançar. A certa altura, um dos meus amigos começou a dançar de uma maneira tão engraçada que toda a gente se virou para olhar e desatou a rir. Até eu comecei a dançar de forma maluca e quase perdi o equilíbrio! Felizmente, consegui manter-me de pé e continuámos a dançar até ficarmos cansados. No final, fui para casa muito feliz, com a sensação de ter vivido uma das melhores noites do ano.
+[Lembra-te de responder a perguntas como: *Quando foi? Com quem estavas? O que aconteceu? Como terminou? O que sentiste?*]
 
 > [Escreve aqui uma frase marcante da história — algo que alguém disse ou que tu pensaste nesse momento.]
 
@@ -55,10 +55,10 @@ Mais tarde, chegou o momento que todos estávamos à espera: a atuação do DJ S
 
 | O quê                 | Descrição                    |
 |-----------------------|------------------------------|
-| Comida típica         | Hambúrgueres, bifanas, batatas fritas, farturas e algodão-doce.    |
-| Música ou dança       | Música eletrónica, funk e os grandes êxitos que o DJ Solares passa para animar toda a gente.     |
-| Símbolo da festa      | Uma bola de espelhos com luzes coloridas, que representa a música e a diversão.        |
-| Uma tradição curiosa  | Todos os anos, os amigos tentam inventar o passo de dança mais engraçado da festa. No final, escolhe-se o vencedor e todos aplaudem!               |
+| Comida típica         | [ex.: sardinhas assadas]     |
+| Música ou dança       | [ex.: marchas populares]     |
+| Símbolo da festa      | [ex.: manjerico]             |
+| Uma tradição curiosa  | [descreve]                   |
 
 ---
 
